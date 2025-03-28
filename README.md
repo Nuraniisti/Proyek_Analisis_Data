@@ -1,11 +1,11 @@
 # 📊 **E-Commerce Dashboard - Streamlit App**  
 
-##Setup Environment - Anaconda
+**Setup Environment - Anaconda**
 
 conda activate base  
 pip install -r requirements.txt
 
-##Setup Environment - Shell/Terminal
+**Setup Environment - Shell/Terminal**
 
 mkdir submission  
 cd submission  
@@ -13,7 +13,7 @@ pipenv install
 pipenv shell  
 pip install -r requirements.txt
 
-##Run steamlit app
+**Run steamlit app**
 
 streamlit run dashboard.py  
 atau  
